@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/FileGenerator/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/.vs/FileGenerator/v17/.suo
+/.vs/FileGenerator/FileContentIndex/97500dd4-ced1-4e2c-bef7-8eb58167b81a.vsidx
+/.vs/FileGenerator/FileContentIndex/a7263485-39ff-4636-8e57-03268ab678eb.vsidx
+/.vs/FileGenerator/FileContentIndex/aaae558b-2fa6-440d-82ad-57a983e3ae83.vsidx
+/.vs/FileGenerator/FileContentIndex/b3aa7c18-faa8-48be-9880-46366c83fc79.vsidx
