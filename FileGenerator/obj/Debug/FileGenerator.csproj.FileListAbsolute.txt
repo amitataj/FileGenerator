@@ -1,0 +1,12 @@
+D:\Pratice\FileGenerator\FileGenerator\bin\Debug\FileGenerator.exe.config
+D:\Pratice\FileGenerator\FileGenerator\bin\Debug\FileGenerator.exe
+D:\Pratice\FileGenerator\FileGenerator\bin\Debug\FileGenerator.pdb
+D:\Pratice\FileGenerator\FileGenerator\obj\Debug\FileGenerator.csproj.AssemblyReference.cache
+D:\Pratice\FileGenerator\FileGenerator\obj\Debug\FileGenerator.csproj.SuggestedBindingRedirects.cache
+D:\Pratice\FileGenerator\FileGenerator\obj\Debug\FileGenerator.Form1.resources
+D:\Pratice\FileGenerator\FileGenerator\obj\Debug\FileGenerator.Properties.Resources.resources
+D:\Pratice\FileGenerator\FileGenerator\obj\Debug\FileGenerator.csproj.GenerateResource.cache
+D:\Pratice\FileGenerator\FileGenerator\obj\Debug\FileGenerator.csproj.CoreCompileInputs.cache
+D:\Pratice\FileGenerator\FileGenerator\obj\Debug\FileGenerator.exe
+D:\Pratice\FileGenerator\FileGenerator\obj\Debug\FileGenerator.pdb
+D:\Pratice\FileGenerator\FileGenerator\obj\Debug\FileGenerator.Form2.resources
